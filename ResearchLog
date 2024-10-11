@@ -3,3 +3,7 @@ I am working on setting up Lua following https://www.youtube.com/watch?v=rol8n3F
 I am doing this so I can transcribe the code in https://www.youtube.com/watch?v=I4nf23HywmI&ab_channel=TheMindGrid
   The code from this video is uploaded under botnet01-dissector.lua 
   feel free to experiment with it. 
+
+Matthew Ralon - 10/10/2024
+I have uploaded 2 files, test_script.py and chatbox.lua. These two files work together to open a GUI when a box is clicked in Wireshark, the user then sends a message that gets read by an LLM and gets a response.
+It is important to note that this will only run if you have the correct libraries and things downloaded, this is simply to test and to learn for this project.
